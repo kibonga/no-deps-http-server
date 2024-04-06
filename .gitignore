@@ -1,0 +1,69 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.ko
+*.mod.*
+
+# Dependency directories (uncomment if you're using them)
+# deps/
+
+# CLion specific
+.idea/
+*.iml
+
+# Build directories
+cmake-build-*/
+
+# Coverage directory used by tools like gcov
+coverage/
+*.gcno
+*.gcda
+*.gcov
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# User-specific files
+*.user
+*.user.*
+.vscode/
